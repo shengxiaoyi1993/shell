@@ -5,8 +5,10 @@
 
 
 DIR=~/Software/self
+wdir=$(cygpath.exe -p ${DIR} -w)
+FLAG=--prefix-file="${wdir}"
+echo "FLAG:" ${FLAG}
+echo "wdir:" ${wdir}
 
-FLAG=--prefix-file=${DIR}
-echo ${FLAG}
 
 echo $1
