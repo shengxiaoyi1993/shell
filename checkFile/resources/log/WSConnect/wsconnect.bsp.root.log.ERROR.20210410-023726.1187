@@ -1,0 +1,32 @@
+Log file created at: 2021/04/10 02:37:26
+Running on machine: bsp
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0410 02:37:26.395045  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":6,"__data":"{\"__is_start_scan\":1,\"__is_end_scan\":0,\"__scan_id\":0,\"__trigger_mode\":144}"}
+E0410 02:37:26.572624  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":2,\"__size\":268669,\"__width\":24576,\"__height\":144,\"__detail\":1610612880}"}
+E0410 02:37:26.663558  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":3,\"__size\":333993,\"__width\":8192,\"__height\":144,\"__detail\":536871056}"}
+E0410 02:37:26.832754  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":4,\"__size\":332712,\"__width\":16385,\"__height\":144,\"__detail\":1073807504}"}
+E0410 02:37:26.919097  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":5,\"__size\":322000,\"__width\":1,\"__height\":144,\"__detail\":65680}"}
+E0410 02:37:27.174875  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":6,\"__size\":317058,\"__width\":2,\"__height\":144,\"__detail\":131216}"}
+E0410 02:37:27.430754  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":7,\"__size\":319330,\"__width\":3,\"__height\":144,\"__detail\":196752}"}
+E0410 02:37:27.686928  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":8,\"__size\":321810,\"__width\":4,\"__height\":144,\"__detail\":262288}"}
+E0410 02:37:27.942993  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":9,\"__size\":324562,\"__width\":5,\"__height\":144,\"__detail\":327824}"}
+E0410 02:37:28.199046  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":10,\"__size\":327012,\"__width\":6,\"__height\":144,\"__detail\":393360}"}
+E0410 02:37:28.455231  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":11,\"__size\":328591,\"__width\":7,\"__height\":144,\"__detail\":458896}"}
+E0410 02:37:28.711254  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":12,\"__size\":330209,\"__width\":8,\"__height\":144,\"__detail\":524432}"}
+E0410 02:37:28.782259  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":13,\"__size\":324550,\"__width\":16386,\"__height\":144,\"__detail\":1073873040}"}
+E0410 02:37:28.967905  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":14,\"__size\":348987,\"__width\":9,\"__height\":144,\"__detail\":589968}"}
+E0410 02:37:29.015599  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":15,\"__size\":362373,\"__width\":16387,\"__height\":144,\"__detail\":1073938576}"}
+E0410 02:37:29.224515  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":16,\"__size\":367125,\"__width\":10,\"__height\":144,\"__detail\":655504}"}
+E0410 02:37:29.247541  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":17,\"__size\":362929,\"__width\":16388,\"__height\":144,\"__detail\":1074004112}"}
+E0410 02:37:29.478926  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":18,\"__size\":322463,\"__width\":11,\"__height\":144,\"__detail\":721040}"}
+E0410 02:37:29.734776  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":19,\"__size\":315408,\"__width\":12,\"__height\":144,\"__detail\":786576}"}
+E0410 02:37:29.990970  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":20,\"__size\":322416,\"__width\":13,\"__height\":144,\"__detail\":852112}"}
+E0410 02:37:30.247133  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":21,\"__size\":325974,\"__width\":14,\"__height\":144,\"__detail\":917648}"}
+E0410 02:37:30.503299  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":22,\"__size\":327103,\"__width\":15,\"__height\":144,\"__detail\":983184}"}
+E0410 02:37:30.759130  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":23,\"__size\":329560,\"__width\":16,\"__height\":144,\"__detail\":1048720}"}
+E0410 02:37:31.016294  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":24,\"__size\":359004,\"__width\":17,\"__height\":144,\"__detail\":1114256}"}
+E0410 02:37:31.065699  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":25,\"__size\":367475,\"__width\":16389,\"__height\":144,\"__detail\":1074069648}"}
+E0410 02:37:31.272384  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":26,\"__size\":364229,\"__width\":18,\"__height\":128,\"__detail\":1179776}"}
+E0410 02:37:31.406397  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":6,"__data":"{\"__is_start_scan\":0,\"__is_end_scan\":1,\"__scan_id\":0,\"__trigger_mode\":0}"}
+E0410 02:37:31.418612  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":28,\"__size\":274316,\"__width\":20486,\"__height\":0,\"__detail\":1342570496}"}
+E0410 02:37:31.425941  1210 wsconnect.cpp:70] fail to send To WSServer>{"__type":0,"__data":"{\"__type\":96,\"__index\":29,\"__size\":211603,\"__width\":4115,\"__height\":0,\"__detail\":269680640}"}
