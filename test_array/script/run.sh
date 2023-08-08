@@ -41,3 +41,19 @@ for((i=0; i<$len; i++)){
 }
 
 echo ${folders[@]}
+
+
+
+# 测试变量的作用域
+for value in ${arr[@]}
+do
+  array_new[${#array_new[@]}]=$value
+done
+
+echo "array_new:"
+for value in ${array_new[@]}
+do
+echo $value
+done
+
+
